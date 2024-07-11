@@ -55,4 +55,5 @@ GM65 GND -> ESP8266 GND
 # Contact
    Connections and Layouts are hidden.
    This is an ongoing Project
-For more details. Contact-kishorekasireddi4@gmail.com 
+For more details. 
+Contact - kishorekasireddi4@gmail.com 
