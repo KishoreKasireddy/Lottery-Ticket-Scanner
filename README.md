@@ -10,6 +10,7 @@ A project to scan and verify lottery tickets using an ESP module and a barcode r
 - [Code Overview](#code-overview)
 - [Contributing](#contributing)
 - [License](#license)
+-  [Contact](#Contact)
 
 ## Introduction
 
@@ -49,3 +50,9 @@ GM65 TX -> ESP8266 RX (GPIO4)
 GM65 RX -> ESP8266 TX (GPIO5)
 GM65 VCC -> ESP8266 3.3V
 GM65 GND -> ESP8266 GND
+
+
+# Contact
+   Connections and Layouts are hidden.
+   This is an ongoing Project
+For more details. Contact-kishorekasireddi4@gmail.com 
