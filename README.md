@@ -43,4 +43,9 @@ This project uses an ESP module and a barcode reader to scan lottery tickets. Th
 ## Code Overview
 
 ### BarCode.ino
-
+Usage:
+Ensure the barcode scanner is correctly connected:
+GM65 TX -> ESP8266 RX (GPIO4)
+GM65 RX -> ESP8266 TX (GPIO5)
+GM65 VCC -> ESP8266 3.3V
+GM65 GND -> ESP8266 GND
